@@ -82,7 +82,7 @@ pip install python-telegram-bot
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mudrep.git
+git clone https://github.com/Joyalmaxwel04/Mudrep.git
 cd mudrep
 
 # Install dependencies
