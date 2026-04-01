@@ -1,4 +1,4 @@
-![image alt](https://github.com/Joyalmaxwel04/Mudrep/blob/83f91392e387aca8c81c399cc51751daa5988b50/Thumbnail/file_000000006a74720b8b62f0aa87a28bd0.png)
+![image alt](
 
 # mudrep — Mudkip CLI Tool
 
