@@ -129,7 +129,7 @@ You have 3 attempts before access is denied.
 ### Recording a Task
 
 ```
-record backup
+record <name>
 ```
 
 You will enter record mode and type commands one by one:
@@ -165,13 +165,13 @@ list
 ### Viewing a Task's Contents
 
 ```
-cat backup
+cat <recordname>
 ```
 
 ### Deleting a Task
 
 ```
-del backup
+del <recordname>
 ```
 
 ---
