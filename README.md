@@ -219,7 +219,7 @@ Valid examples: `backup`, `my-task`, `deploy_v2`
 
 | File | Purpose |
 |---|---|
-| `mudkip_users.json` | Stores user accounts (hashed passwords) |
+| `mudrep_users.json` | Stores user accounts (hashed passwords) |
 | `remote_config.json` | Stores bot token and remote password hash |
 | `tasks.db` | SQLite database of all recorded tasks |
 | `tasks/` | Folder containing task command files (`.txt`) |
@@ -231,7 +231,7 @@ Valid examples: `backup`, `my-task`, `deploy_v2`
 ```
 mudrep/
 ├── mudrep.py          # Main application file
-├── mudkip_users.json  # Auto-generated on first run
+├── mudrep_users.json  # Auto-generated on first run
 ├── remote_config.json # Auto-generated after remote_setup
 ├── tasks.db           # Auto-generated SQLite database
 ├── tasks/             # Auto-generated task files directory
