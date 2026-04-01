@@ -251,20 +251,6 @@ mudrep/
 
 ---
 
-## Educational Purpose
-
-mudrep was built as a learning project covering:
-
-- **Python CLI design** — building structured terminal interfaces with ANSI colors
-- **SQLite integration** — storing and querying structured data with Python's built-in `sqlite3`
-- **Threading** — running background tasks (internet watchdog, datetime scheduler, Telegram bot) alongside an interactive CLI using `threading.Thread` and `asyncio.run_coroutine_threadsafe`
-- **Async Python** — understanding `asyncio` event loops, how to share them safely across threads, and structuring a bot with `python-telegram-bot`
-- **Process management** — spawning and capturing output from subprocesses with `subprocess.run`
-- **Authentication design** — implementing a simple but correct login system with hashing, file persistence, and brute-force limiting
-- **Bot development** — building a full-featured Telegram bot with command handlers, conversation state (`context.user_data`), and multi-step flows
-
----
-
 ## Productivity Use Cases
 
 - Automate repetitive multi-step terminal workflows into single commands
